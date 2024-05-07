@@ -75,7 +75,7 @@ namespace WinFormsApp1
                     }
 
 
-                    MessageBox.Show("Your user information has been entered. You can continue.", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("The payment has been successful.", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     Hide();
                     //go back to main menu (Form 1)
                     hp form = new hp(email);
