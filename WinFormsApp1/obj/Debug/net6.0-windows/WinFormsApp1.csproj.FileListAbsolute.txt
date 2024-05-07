@@ -1,0 +1,74 @@
+H:\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+H:\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+H:\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+H:\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+H:\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+H:\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+H:\New folder\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+H:\New folder\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+H:\New folder\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+H:\New folder\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+H:\New folder\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form4.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form5.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.hp.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form7.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+H:\New folder\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form8.resources
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Desktop\projecttue\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Concert.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.hp.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form8.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Homepage.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Info.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Login.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Register.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ticket.resources
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Desktop\projecttue\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
